@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+*.egg-info/
+build/
+dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+
+# Python virtual environments
+env/
+.venv/
+venv/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Unit test / coverage reports
+htmlcov/
+.coverage

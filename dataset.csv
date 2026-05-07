@@ -1,0 +1,37 @@
+Fever,Cough,Headache,Fatigue,Nausea,Vomiting,Chest_Pain,Shortness_of_Breath,Disease
+1,1,0,1,0,0,0,0,Common Cold
+1,1,1,1,0,0,0,0,Common Cold
+0,1,1,1,0,0,0,0,Common Cold
+1,0,0,1,0,0,0,0,Common Cold
+0,1,1,1,0,0,0,1,Influenza
+1,1,1,1,0,0,0,1,Influenza
+0,1,0,1,0,0,0,1,Influenza
+1,0,0,1,0,0,0,1,Influenza
+1,1,1,1,0,0,1,0,Pneumonia
+1,1,1,1,0,0,1,1,Pneumonia
+0,1,0,1,0,0,1,1,Pneumonia
+1,0,0,1,0,0,1,1,Pneumonia
+0,0,1,1,1,1,0,0,Gastroenteritis
+0,0,0,1,1,1,0,0,Gastroenteritis
+0,0,1,0,1,1,0,0,Gastroenteritis
+0,0,1,1,0,0,0,0,Migraine
+0,0,1,1,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,Migraine
+1,0,1,1,0,0,0,0,Viral Infection
+1,1,1,1,0,0,0,0,Viral Infection
+1,0,0,0,0,0,0,0,Viral Infection
+1,0,0,0,0,0,0,0,Viral Infection
+1,0,0,1,0,0,0,0,Viral Infection
+0,0,0,0,0,1,0,0,Food Poisoning
+0,0,0,1,0,0,0,0,Viral Infection
+0,0,0,0,1,0,0,0,Food Poisoning
+0,0,0,0,0,1,0,0,Food Poisoning
+1,0,0,1,0,0,0,0,Viral Infection
+1,0,1,0,0,0,0,0,Viral Infection
+0,1,0,1,0,0,0,1,Influenza
+0,0,0,1,1,1,0,0,Food Poisoning
+1,1,0,0,0,0,0,0,Common Cold
+0,1,0,1,0,0,0,1,Influenza
+0,0,0,1,1,1,0,0,Food Poisoning
+0,1,1,1,0,0,0,1,Influenza 
